@@ -72,4 +72,4 @@ This project implements a **Convolutional Neural Network (CNN)** to classify han
 For inquiries, feel free to reach out:
 - **Name**: Mousa Aricat
 - **Email**: [mousa_arikat@outlook.com](mailto:mousa_arikat@outlook.com)
-- **LinkedIn**:[Mousa Aricat](https://www.linkedin.com/in/mousa-aricat-5847a2241/)
+- **LinkedIn**: [Mousa Aricat](https://www.linkedin.com/in/mousa-aricat-5847a2241/)
