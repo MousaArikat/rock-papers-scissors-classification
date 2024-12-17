@@ -55,9 +55,9 @@ This project implements a **Convolutional Neural Network (CNN)** to classify han
 ---
 ## Results Visualization
   **ResNet18 Training and Validation Accuracy**:
-  ![ResNet18 Training Accuracy](Images/resnet18.png)
+  ![ResNet18 Training Accuracy](images/resnet18.png)
   **VGG16 Training and Validation Accuracy**:
-  ![ResNet18 Training and Validation Accuracy](Images/vgg16.png)
+  ![ResNet18 Training and Validation Accuracy](images/vgg16.png)
 
 ---
 
